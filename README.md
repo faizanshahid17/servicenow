@@ -1,2 +1,2 @@
-# servicenow
-A service now things
+# fake news
+chrome extension to detect fake news using ML predictions
